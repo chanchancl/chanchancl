@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanchancl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/chanchancl/github-stars/blob/master/generated/overview.svg)
+![](https://github.com/chanchancl/github-stars/blob/master/generated/languages.svg)
